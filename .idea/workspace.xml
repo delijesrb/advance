@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77a650b5-80b1-4912-9030-4eecb1921847" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/FlyTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/PersonalTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/animal/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/animal/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/animal/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/animal/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/animal/FunktionalPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/animal/Hamster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/animal/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/error/ErrorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/human/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/human/Pensioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/human/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/human/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/machine/Plain.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2eo5pjChxvwkoyNgejRhsL3tcOQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/java_programs/Advanc_kurs"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ErrorMain">
+    <configuration name="ErrorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rs.srb.one.error.ErrorMain" />
+      <module name="AdvancedJavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rs.srb.one.error.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlyTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rs.srb.one.FlyTester" />
+      <module name="AdvancedJavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rs.srb.one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunktionalPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rs.srb.one.animal.FunktionalPerson" />
+      <module name="AdvancedJavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rs.srb.one.animal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rs.srb.one.Main" />
+      <module name="AdvancedJavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rs.srb.one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ErrorMain" />
+        <item itemvalue="Application.FunktionalPerson" />
+        <item itemvalue="Application.FlyTester" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77a650b5-80b1-4912-9030-4eecb1921847" name="Changes" comment="" />
+      <created>1712558281330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712558281330</updated>
+    </task>
+    <servers />
+  </component>
+</project>
