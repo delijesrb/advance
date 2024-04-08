@@ -5,31 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77a650b5-80b1-4912-9030-4eecb1921847" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/FlyTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/PersonalTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/animal/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/animal/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/animal/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/animal/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/animal/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/animal/FunktionalPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/animal/Hamster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/animal/Rabbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/error/ErrorMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/human/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/human/Pensioner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/human/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/human/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/one/machine/Plain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/two/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/two/collection/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/two/collection/CustomerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/two/collection/Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/two/collection/DatabaseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/two/generic/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/two/generic/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +32,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2eo5pjChxvwkoyNgejRhsL3tcOQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -58,16 +43,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/java_programs/Advanc_kurs"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/java_programs/Advanc_kurs&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ErrorMain">
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="rs.srb.two.generic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DatabaseDemo">
+    <configuration name="DatabaseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rs.srb.two.collection.DatabaseDemo" />
+      <module name="AdvancedJavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rs.srb.two.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ErrorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rs.srb.one.error.ErrorMain" />
       <module name="AdvancedJavaPrograming" />
@@ -122,6 +125,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DatabaseDemo" />
         <item itemvalue="Application.ErrorMain" />
         <item itemvalue="Application.FunktionalPerson" />
         <item itemvalue="Application.FlyTester" />
@@ -139,5 +143,26 @@
       <updated>1712558281330</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/rs/srb/two/collection/DatabaseDemo.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/rs/srb/two/collection/CustomerDao.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/rs/srb/two/collection/CustomerDao.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
