@@ -5,16 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77a650b5-80b1-4912-9030-4eecb1921847" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/two/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/two/collection/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/two/collection/CustomerDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/two/collection/Dao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/two/collection/DatabaseDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/two/generic/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/two/generic/Pair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/three/ConnectionPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/three/Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/three/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/three/customer/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/three/customer/CustomerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/three/product/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/three/product/ProductConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/three/product/ProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/three/product/ProductTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/three/product/ProductTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/three/shiper/Shippers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/three/shiper/ShippersDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +60,39 @@
       <recent name="rs.srb.two.generic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DatabaseDemo">
+  <component name="RunManager" selected="Application.Demo2">
     <configuration name="DatabaseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rs.srb.two.collection.DatabaseDemo" />
       <module name="AdvancedJavaPrograming" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="rs.srb.two.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rs.srb.three.Demo" />
+      <module name="AdvancedJavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rs.srb.three.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rs.srb.three.Demo2" />
+      <module name="AdvancedJavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rs.srb.three.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,19 +113,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlyTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rs.srb.one.FlyTester" />
-      <module name="AdvancedJavaPrograming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rs.srb.one.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FunktionalPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rs.srb.one.animal.FunktionalPerson" />
       <module name="AdvancedJavaPrograming" />
@@ -110,26 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rs.srb.one.Main" />
-      <module name="AdvancedJavaPrograming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rs.srb.one.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo2" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.DatabaseDemo" />
         <item itemvalue="Application.ErrorMain" />
         <item itemvalue="Application.FunktionalPerson" />
-        <item itemvalue="Application.FlyTester" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -161,6 +164,12 @@
           <url>file://$PROJECT_DIR$/src/main/java/rs/srb/two/collection/CustomerDao.java</url>
           <line>7</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/rs/srb/three/product/Product.java</url>
+          <line>6</line>
+          <properties field="productId" class="rs.srb.three.product.Product" />
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
